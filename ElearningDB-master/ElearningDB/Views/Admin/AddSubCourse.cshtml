@@ -1,0 +1,21 @@
+﻿@model SubCourseViewModel
+
+<form asp-action="AddSubCourse" enctype="multipart/form-data">
+    <div>
+        <label>Course:</label>
+        <select asp-for="CourseId" asp-items="ViewBag.CourseId"></select>
+    </div>
+    <div>
+        <label>Sub-Course Name:</label>
+        <input asp-for="SubCourseName" />
+    </div>
+    <div>
+        <label>Price:</label>
+        <input asp-for="Price" />
+    </div>
+    <div>
+        <label>Upload Image:</label>
+        <input type="file" asp-for="ImagePath" />
+    </div>
+    <button type="submit">Add Sub-Course</button>
+</form>

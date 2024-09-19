@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kirti\\source\\repos\\Education\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|c:\\users\\kirti\\source\\repos\\education\\education\\orders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\orders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\addcourse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\addcourse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\addcourse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\addcourse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\upload.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\upload.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\upload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\upload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\placeorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\placeorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\placeorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\placeorder.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\orders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\orders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\orderhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\orderhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\orderhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\orderhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\mycourses.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\mycourses.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\mycourses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\mycourses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\allcourse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\allcourse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|C:\\Users\\kirti\\source\\repos\\Education\\education\\allcourse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{938C1B69-6A1F-4EA9-96DB-9C592F69EE8A}|Education\\Education.csproj|solutionrelative:education\\allcourse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\Login.aspx",
+              "RelativeDocumentMoniker": "Education\\Login.aspx",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\Login.aspx",
+              "RelativeToolTip": "Education\\Login.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-21T06:28:29.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "upload.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\upload.aspx.cs",
+              "RelativeDocumentMoniker": "Education\\upload.aspx.cs",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\upload.aspx.cs",
+              "RelativeToolTip": "Education\\upload.aspx.cs",
+              "ViewState": "AQIAAGkAAACAyszMzEwcwBIBAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:37:33.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "upload.aspx",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\upload.aspx",
+              "RelativeDocumentMoniker": "Education\\upload.aspx",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\upload.aspx",
+              "RelativeToolTip": "Education\\upload.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-14T07:32:32.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "placeorder.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\placeorder.aspx.cs",
+              "RelativeDocumentMoniker": "Education\\placeorder.aspx.cs",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\placeorder.aspx.cs",
+              "RelativeToolTip": "Education\\placeorder.aspx.cs",
+              "ViewState": "AQIAAC8AAAAAk5mZmZkvwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:28:28.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "placeorder.aspx",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\placeorder.aspx",
+              "RelativeDocumentMoniker": "Education\\placeorder.aspx",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\placeorder.aspx",
+              "RelativeToolTip": "Education\\placeorder.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-14T07:17:26.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "orders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\orders.aspx.cs",
+              "RelativeDocumentMoniker": "Education\\orders.aspx.cs",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\orders.aspx.cs",
+              "RelativeToolTip": "Education\\orders.aspx.cs",
+              "ViewState": "AQIAABwAAACAk5mZmZkVwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:07:57.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "orders.aspx",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\orders.aspx",
+              "RelativeDocumentMoniker": "Education\\orders.aspx",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\orders.aspx",
+              "RelativeToolTip": "Education\\orders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-14T07:02:14.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "orderhistory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\orderhistory.aspx.cs",
+              "RelativeDocumentMoniker": "Education\\orderhistory.aspx.cs",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\orderhistory.aspx.cs",
+              "RelativeToolTip": "Education\\orderhistory.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:56:06.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "orderhistory.aspx",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\orderhistory.aspx",
+              "RelativeDocumentMoniker": "Education\\orderhistory.aspx",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\orderhistory.aspx",
+              "RelativeToolTip": "Education\\orderhistory.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-14T06:09:13.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "mycourses.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\mycourses.aspx.cs",
+              "RelativeDocumentMoniker": "Education\\mycourses.aspx.cs",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\mycourses.aspx.cs",
+              "RelativeToolTip": "Education\\mycourses.aspx.cs",
+              "ViewState": "AQIAAEAAAAAAYJiZmZm5v0gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:05:08.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "mycourses.aspx",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\mycourses.aspx",
+              "RelativeDocumentMoniker": "Education\\mycourses.aspx",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\mycourses.aspx",
+              "RelativeToolTip": "Education\\mycourses.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-14T05:49:47.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\cart.aspx.cs",
+              "RelativeDocumentMoniker": "Education\\cart.aspx.cs",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\cart.aspx.cs",
+              "RelativeToolTip": "Education\\cart.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAWzMzMzMbwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:45:32.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cart.aspx",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\cart.aspx",
+              "RelativeDocumentMoniker": "Education\\cart.aspx",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\cart.aspx",
+              "RelativeToolTip": "Education\\cart.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-14T05:35:26.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "allcourse.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\allcourse.aspx.cs",
+              "RelativeDocumentMoniker": "Education\\allcourse.aspx.cs",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\allcourse.aspx.cs",
+              "RelativeToolTip": "Education\\allcourse.aspx.cs",
+              "ViewState": "AQIAAFcAAAAA/v////8bwGcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:27:37.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "allcourse.aspx",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\allcourse.aspx",
+              "RelativeDocumentMoniker": "Education\\allcourse.aspx",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\allcourse.aspx",
+              "RelativeToolTip": "Education\\allcourse.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-14T05:25:55.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "addcourse.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\addcourse.aspx.cs",
+              "RelativeDocumentMoniker": "Education\\addcourse.aspx.cs",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\addcourse.aspx.cs",
+              "RelativeToolTip": "Education\\addcourse.aspx.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:12:59.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "addcourse.aspx",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\addcourse.aspx",
+              "RelativeDocumentMoniker": "Education\\addcourse.aspx",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\Education\\Education\\addcourse.aspx",
+              "RelativeToolTip": "Education\\addcourse.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-14T05:00:26.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

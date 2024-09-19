@@ -1,0 +1,21 @@
+﻿@model IEnumerable<ElearningDB.Models.VideoListModel>
+
+<h2>VIDEO LISTS</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Sub-Course Name</th>
+            <th>No. of Videos</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var video in Model)
+        {
+            <tr>
+                <td>@video.SubCourseName</td>
+                <td>@video.VideoCount</td>
+            </tr>
+        }
+    </tbody>
+</table>

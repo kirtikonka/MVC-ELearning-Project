@@ -1,0 +1,55 @@
+﻿@model VideoViewModel
+
+<form asp-action="UploadVideo" enctype="multipart/form-data">
+    <div>
+        <label>Course:</label>
+        <select id="CourseId" asp-for="CourseId" asp-items="ViewBag.CourseId"></select>
+    </div>
+    <div>
+        <label>Sub-Course:</label>
+        <select id="SubCourseId" asp-for="SubCourseId" asp-items="ViewBag.SubCourseId"></select>
+    </div>
+    <div>
+        <label>Topic Name:</label>
+        <input asp-for="TopicName" />
+    </div>
+    <div>
+        <label>Video URL:</label>
+        <input asp-for="Url" />
+    </div>
+    <div>
+        <label>Upload Thumbnail:</label>
+        <input type="file" asp-for="ImagePath" />
+    </div>
+    <button type="submit">Upload Video</button>
+</form>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#CourseId').change(function () {
+                var courseId = $(this).val();
+
+                // Clear the existing sub-course options
+                $('#SubCourseId').empty();
+
+                if (courseId) {
+                    $.ajax({
+                        url: '@Url.Action("GetSubCourses", "Video")',
+                        type: 'GET',
+                        data: { courseId: courseId },
+                        success: function (data) {
+                            // Add a default empty option
+                            $('#SubCourseId').append('<option value="">Select Sub-Course</option>');
+
+                            $.each(data, function (index, subCourse) {
+                                $('#SubCourseId').append('<option value="' + subCourse.subCourseId + '">' + subCourse.subCourseName + '</option>');
+                            });
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+}
